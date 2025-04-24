@@ -1,6 +1,4 @@
-Alright, let's break down the impact of optical beam output power on inter-satellite communication. This will involve characterizing the beam, the channel, performing a power analysis, and then looking at the Bit Error Rate (BER) versus Signal-to-Noise Ratio (SNR) for OOK modulation.
 
-Here's a plan, and I'll provide the Python code and explanations. You can then structure this into your GitHub repository.
 
 **Assumptions:**
 
@@ -189,4 +187,4 @@ optical_inter_satellite_comms/
 5.  Compile the summary above (along with the generated plots) into a PDF document named `optical_link_analysis_report.pdf` and save it in the `report` folder.
 6.  Commit and push the repository to GitHub.
 
-This comprehensive analysis and the provided Python code should fulfill the requirements of your problem statement. Remember to cite any research papers you might have referred to in your final PDF report. Good luck!
+
